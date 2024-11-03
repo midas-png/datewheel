@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app {
+    --main: #42567a;
+    --range-start: #5d5fef;
+    --range-end: #ef5da8;
+    --year: #3877ee;
+    --line: #e3e6ed;
+    --bg: #f4f5f9;
+    --spinner: #d0d5e0;
+    --circle: #303e5880;
+    --dot: #42567a;
+    background: var(--bg);
+
+    @media (width >= 1920px) {
+        padding-left: 320px;
+        padding-right: 160px;
+    }
+}
