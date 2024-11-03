@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datewheel/static/css/main.7cfa3783.css",
+    "main.js": "/datewheel/static/js/main.7bbc59b2.js",
+    "index.html": "/datewheel/index.html",
+    "main.7cfa3783.css.map": "/datewheel/static/css/main.7cfa3783.css.map",
+    "main.7bbc59b2.js.map": "/datewheel/static/js/main.7bbc59b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfa3783.css",
+    "static/js/main.7bbc59b2.js"
+  ]
+}
